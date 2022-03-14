@@ -58,7 +58,7 @@ class App extends Component{
     
       :<Loading message="hey hey hey" />}
     </div>;
-    <div></div>
+    
   }
 }
 
